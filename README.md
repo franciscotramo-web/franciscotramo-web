@@ -1,5 +1,6 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![Banner Image](<img width="1792" height="592" alt="bannergitfullstack" src="https://github.com/user-attachments/assets/1e988cdb-59fb-470c-9887-cd9947ca05ed" />
+)
 
 <!--Night Owl image-->
 <div>
