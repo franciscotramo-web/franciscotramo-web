@@ -24,7 +24,7 @@ Construyo aplicaciones web funcionales, responsivas y orientadas a resolver prob
 <h2>👨‍💻 Sobre mí</h2>
 
 <p>
-Soy Técnico de Nivel Superior en Farmacia y desarrollador web trainee.
+Soy Técnico de Nivel Superior en Farmacia y Desarrollador web trainee.
 Me interesa crear soluciones digitales útiles, accesibles y mantenibles, aplicando buenas prácticas de programación,
 trabajo colaborativo y aprendizaje continuo.
 </p>
