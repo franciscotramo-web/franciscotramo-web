@@ -229,7 +229,7 @@ Proyecto personal orientado a practicar desarrollo web, diseño de interfaces, l
 </p>
 
 <p>
-<a href="https://github.com/tu-usuario/tu-repositorio">Ver repositorio</a> ·
+<a href="https://github.com/franciscotramo-web/Organic-fishing">Ver repositorio</a> ·
 <a href="https://tu-demo.example.com">Ver demo</a>
 </p>
 
