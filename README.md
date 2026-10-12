@@ -10,7 +10,7 @@ Construyo aplicaciones web funcionales, responsivas y orientadas a resolver prob
 <a href="https://github.com/franciscotramo-web">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="www.linkedin.com/in/francisco-javier-tramolao-osses">
+<a href="https://www.linkedin.com/in/francisco-javier-tramolao-osses">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:francisco.tramo@gmail.com">
